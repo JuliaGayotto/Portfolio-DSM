@@ -33,7 +33,7 @@
   </div>
   <h3> Minhas contribuições: </h3>
   <p>  Durante o desenvolvimento do projeto colaborei com o back-end, que foi desenvolvido utilizando Python, Javascript, Flask, MySQL e NodeJs, atuando principalmente na automação da busca dos associados no diário e no geramento de relatórios diários das ocorrências. </p>
-  <li> <strong> Hardskills: </strong>  </li>
+  <li> <strong> Hardskills: aprendi a importar diferentes bibliotacas no backend,  realizar raspagem de dados, ler e criar arquivos e posteriormente transformá-los em pdf utilizando python e a bibliotaca os, checar se há arquivos em um determinado repositório e contá-los, extrair links de um html e aprimorei minhas habilidades de manipulação de objetos e lógica de programação.</strong>  </li>
   <br>
   <li> <strong> Softskills: </strong> consegui desenvolver ainda mais minhas habilidades de comunicação, autonomia e responsabilidade, tanto por ser parte de uma equipe quanto por ser P.O. Além dessas, evoluí também quanto a minha proatividade e minha habilidade de ser fléxivel, de se adaptar rapidamente à mudanças e aprender rapidamente, que são habilidades extremamente importantes, principalmente na metodologia SCRUM.  </li>
 </div>
