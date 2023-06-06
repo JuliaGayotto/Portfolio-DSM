@@ -47,7 +47,7 @@
   <br>
   <h3> Minhas contribuições: </h3>
   <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL.
-  <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, além de ampliar meus conhecimentos em Java. </strong>  </li>
+  <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de utilizar softwares para facilitar o gerenciamento de equipe como o JiraSoftware. </strong>  </li>
   <br>
   <li> <strong> Softskills: </strong> adquiri melhores habilidades de liderança, proatividade, organização, resolução de problemas e conflitos, comunicação e responsabilidade, principalmente por ser Scrum Master e ficar responsável pela parte de gestão do time e organização do projeto.  </li>
 
