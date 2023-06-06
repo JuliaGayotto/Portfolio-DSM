@@ -13,7 +13,7 @@
   <h3> 2022.1 - Sistema de Help Desk </h3>
   <p> Consistiu-se em um sistema de assistência para problemas de TI, onde qualquer pessoa poderia criar um cadastro, enviar suas dúvidas para um funcionário da empresa de assistência e designar uma nota pela resposta recebida. Esses funcionários, por sua vez, eram administrados pelo administrador do sistema que possuía acesso a todas as dúvidas respondidas ou não de cada funcionário, além de acesso à gráficos de percentual de solicitações atendidas, recusadas e em aberto, de evolução do número de solicitações, tabelas com as médias de avaliações de cada funcionário e do sistema, além  da possibilidade de filtrar esses dados por um intervalo de tempo específico. </p>
   
-  ![administrador](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/73da10c7-98ee-473b-8d08-3b131a65351d)
+  ![administrador (2)](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/5181b35e-077e-4512-b72e-9f05b52e84b0)  
  
   <h3> Minhas contribuições: </h3>
   <p> Durante o desenvolvimento do projeto tive a oportunidade de ser Product Owner, além de ser uma das responsáveis pelo desenvolvimento do back-end da aplicação, utilizando Python, Flask e MySQL e pela implantação de gráficos no front-end utilizando o Google Charts, JavaScript, HTML e CSS. </p>
@@ -25,15 +25,15 @@
 <hr>
 <div>
   <h3> 2022.2 - Crawler </h3>
-  <p> Desenvolvimnto de um Crawler para capturar as ocorrências de citações dos associados do sindicato dos professores no Diário Oficial do Estado de São Paulo, onde tinhamos a empresa MidAll como cliente do projeto. Colaborei com o back-end, que foi desenvolvido em Python e Javascript, atuando principalmente na automação da busca dos associados no diário e no geramento de relatórios diários das ocorrências. </p>
+  <p> Desenvolvimnto de um Crawler para capturar as ocorrências de citações dos professores associados do sindicato no Diário Oficial do Estado de São Paulo, onde tinhamos a empresa MidAll como cliente do projeto. </p>
   <div align="center">
     
-  ![s1](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/f2e30fbe-7875-4b9e-b24b-711190b64ea7)
+  ![s1](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/24c51a28-017d-41f4-9c4d-be95f958918b)
  
   </div>
   <h3> Minhas contribuições: </h3>
-  <p> Durante o desenvolvimento do projeto tive a oportunidade de ser Product Owner, além de ser uma das responsáveis pelo desenvolvimento do back-end da aplicação, utilizando Python, Flask e MySQL e pela implantação de gráficos no front-end utilizando o Google Charts, JavaScript, HTML e CSS. </p>
-  <li> <strong> Hardskills: </strong> pude aprender como fazer uma conexão entre o backend e um banco de dados, aprender a difernça entre requisições GET e POST, colaborar no desenvolvimento de um cadastro de usuário e de solicitações, implantar bibliotecas no front-end (Google Charts) e desenvolver conhecimentos de HTML e CSS. </li>
+  <p>  Durante o desenvolvimento do projeto colaborei com o back-end, que foi desenvolvido utilizando Python, Javascript, Flask, MySQL e NodeJs, atuando principalmente na automação da busca dos associados no diário e no geramento de relatórios diários das ocorrências. </p>
+  <li> <strong> Hardskills: </strong>  </li>
   <br>
   <li> <strong> Softskills: </strong> consegui desenvolver ainda mais minhas habilidades de comunicação, autonomia e responsabilidade, tanto por ser parte de uma equipe quanto por ser P.O. Além dessas, evoluí também quanto a minha proatividade e minha habilidade de ser fléxivel, de se adaptar rapidamente à mudanças e aprender rapidamente, que são habilidades extremamente importantes, principalmente na metodologia SCRUM.  </li>
 </div>
@@ -46,11 +46,10 @@
   aqui vai um gif do projeto
   <br>
   <h3> Minhas contribuições: </h3>
-  <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL.
+  <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e da criação dos registros das ações do usuário no sistema.
   <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de utilizar softwares para facilitar o gerenciamento de equipe como o JiraSoftware. </strong>  </li>
   <br>
   <li> <strong> Softskills: </strong> adquiri melhores habilidades de liderança, proatividade, organização, resolução de problemas e conflitos, comunicação e responsabilidade, principalmente por ser Scrum Master e ficar responsável pela parte de gestão do time e organização do projeto.  </li>
-
 </div>
 <br>
 <h2>Contato </h2>
