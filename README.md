@@ -48,11 +48,14 @@
   <br>
   <div align="center">
     
-   ![projeto3](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/67783e13-8a56-4fe7-a399-d4d43acae4d8)
+   ![api_3](https://github.com/Desduh/Portfolio_DSM/assets/100285168/47772325-68fe-4ab8-b5f0-dd2b36c11d6d)
   
  </div>
   <h3> Minhas contribuições: </h3>
-  <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e da criação dos registros das ações do usuário no sistema.
+  <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, onde fui responsável por garantir que as boas práticas da metodologia Scrum fossem aplicadas da melhor maneira possível ao decorrer do projeto, sempre visando assim organizar reuniões diárias (Dailys) e reuniões de planejamento, revisões e retrospectivas, para que assim toda equipe se mantivesse informada do andamento da produção do produto. Busquei sempre também identificar obstáculos que impediam e poderiam impedir a equipe de atingir o sucesso e fornecer soluções para esses. </p>
+  <p> Vale ressaltar que ao decorrer do projeto um dos membros começou um novo trabalho em outra área e acabou perdendo a motivação pelo projeto, o que acabou reduzindo drasticamente suas contribuições para o grupo. Infelizmente, sua presença estava cusando problemas de comunicação e afetando o progresso da equipe e por conta disso decidimos abordar o problema de forma transparente por meio de uma conversa amigável com o integrante. Após demostrarmos nossos pontos, o membro demonstrou ser compreensivo e juntou-se a outro grupo.  Essa experiência foi importante para equipe pois com isso conseguimos aprender como lidar com situações que interferem no rendimento e na dinâmica da equipe de forma amigável e profissional. </p> 
+ 
+  além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e da criação dos registros das ações do usuário no sistema.
   <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de utilizar softwares para facilitar o gerenciamento de equipe como o JiraSoftware. </strong>  </li>
   <br>
   <li> <strong> Softskills: </strong> adquiri melhores habilidades de liderança, proatividade, organização, resolução de problemas e conflitos, comunicação e responsabilidade, principalmente por ser Scrum Master e ficar responsável pela parte de gestão do time e organização do projeto.  </li>
