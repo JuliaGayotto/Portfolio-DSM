@@ -41,10 +41,16 @@
 <hr>
 <div>
   <h3> 2023.1 - Sistema de Gestão de Cobranças </h3>
-  <p> Tratou-se do desenvolvimento de um sistema de gerenciamento de combrança, onde se fez necessário permitir o cadastro de usuários, clientes e títulos, o registro de cobranças das parcelas a receber, além da geração de relatórios de cobrança por diferentes tipos de busca: por data ou por situação das parcelas(vencimento, pagamento, crédito ou todas as situações). </p>
+  <h4> PROBLEMA: </h4>
+  <p>Uma empresa de cobrança visava obter uma melhor gestão para que se fosse possivel facilmente cadastrar e visualizar clientes, registrar pagamentos e verificar parcelas pagas e atrasadas. </p>
+  <h4> SOLUÇÃO: </h4>
+  <p> Nossa solução tratou-se do desenvolvimento de um sistema de gerenciamento de combrança, onde se é possível realizar o cadastro de usuários, clientes e títulos, registrar o pagamento das parcelas, além da geração de relatórios de cobrança por diferentes tipos de busca: por data ou por situação das parcelas(vencimento, pagamento, crédito ou todas as situações) e relátorios de valores à receber. </p
   <br>
-  aqui vai um gif do projeto
-  <br>
+  <div align="center">
+    
+   ![projeto3](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/67783e13-8a56-4fe7-a399-d4d43acae4d8)
+  
+ </div>
   <h3> Minhas contribuições: </h3>
   <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e da criação dos registros das ações do usuário no sistema.
   <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de utilizar softwares para facilitar o gerenciamento de equipe como o JiraSoftware. </strong>  </li>
