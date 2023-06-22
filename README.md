@@ -10,7 +10,7 @@
 <p> Ingressei na faculdade de TI no primeiro semestre de 2022 e sem conhecer muito desse mundo, mas, como sempre gostei de aprender coisas novas, logo me interessei pela área. Desde então, busquei aprender além do que é passado nas aulas, procurando sempre desenvolver projetos pessoais, além de procurar mais conhecimentos técnicos.</p>
 <h2> <strong> Projetos Acadêmicos </strong> </h2>
 <div>
-  <h3> 2022.1 - Sistema de Help Desk </h3>
+  <h3><a href="https://github.com/Desduh/BrazilianTech"> 2022.1 - Sistema de Help Desk </a></h3>
   <p> Consistiu-se em um sistema de assistência para problemas de TI, onde qualquer pessoa poderia criar um cadastro, enviar suas dúvidas para um funcionário da empresa de assistência e designar uma nota pela resposta recebida. Esses funcionários, por sua vez, eram administrados pelo administrador do sistema que possuía acesso a todas as dúvidas respondidas ou não de cada funcionário, além de acesso à gráficos de percentual de solicitações atendidas, recusadas e em aberto, de evolução do número de solicitações, tabelas com as médias de avaliações de cada funcionário e do sistema, além  da possibilidade de filtrar esses dados por um intervalo de tempo específico. </p>
   
   ![administrador (2)](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/5181b35e-077e-4512-b72e-9f05b52e84b0)  
@@ -24,7 +24,7 @@
 <br>
 <hr>
 <div>
-  <h3> 2022.2 - Crawler </h3>
+  <h3><a href="https://github.com/All-Tech-DSM/API-2"> 2022.2 - Crawler </a></h3>
   <h4> PROBLEMA: </h4>
   <p>Um sindicato de professores tem como uma de suas funções notificar seus associados em todas as situações que os nomes desses são citados no Diário Oficial do Estado de São Paulo. Para reduzir custos de mão de obra, erros humanos e o tempo de busca, foi solicitado que se desenvolvesse um sistema para automatização dessas consultas. </p>
   <h4> SOLUÇÃO: </h4>
@@ -43,7 +43,7 @@
 <br>
 <hr>
 <div>
-  <h3> 2023.1 - Sistema de Gestão de Cobranças </h3>
+  <h3><a href="https://github.com/Neo-Brasil/Neo-Brasil-Documentacao"> 2023.1 - Sistema de Gestão de Cobranças </a></h3>
   <h4> PROBLEMA: </h4>
   <p>Uma empresa de cobrança visava obter uma melhor gestão para que se fosse possivel facilmente cadastrar e visualizar clientes, registrar pagamentos e verificar parcelas pagas e atrasadas. </p>
   <h4> SOLUÇÃO: </h4>
