@@ -25,7 +25,10 @@
 <hr>
 <div>
   <h3> 2022.2 - Crawler </h3>
-  <p> Desenvolvimnto de um Crawler para capturar as ocorrências de citações dos professores associados do sindicato no Diário Oficial do Estado de São Paulo, onde tinhamos a empresa MidAll como cliente do projeto. </p>
+  <h4> PROBLEMA: </h4>
+  <p>Um sindicato de professores tem como uma de suas funções notificar seus associados em todas as situações que os nomes desses são citados no Diário Oficial do Estado de São Paulo. Para reduzir custos de mão de obra, erros humanos e o tempo de busca, foi solicitado que se desenvolvesse um sistema para automatização dessas consultas. </p>
+  <h4> SOLUÇÃO: </h4>
+  <p> Foi desenvolvido um Crawler para realizar a raspagem de dados das ocorências no Diário Oficial, além da criação de templates para que o sindicado pudesse realizar o cadastro de seus associados, validar as ocorrências encontradas e liberar o envio dos e-mails para cada associado citado, assim facilitando o trabalho do sindicato. </p>
   <div align="center">
     
   ![s1](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/24c51a28-017d-41f4-9c4d-be95f958918b)
@@ -44,7 +47,7 @@
   <h4> PROBLEMA: </h4>
   <p>Uma empresa de cobrança visava obter uma melhor gestão para que se fosse possivel facilmente cadastrar e visualizar clientes, registrar pagamentos e verificar parcelas pagas e atrasadas. </p>
   <h4> SOLUÇÃO: </h4>
-  <p> Nossa solução tratou-se do desenvolvimento de um sistema de gerenciamento de combrança, onde se é possível realizar o cadastro de usuários, clientes e títulos, registrar o pagamento das parcelas, além da geração de relatórios de cobrança por diferentes tipos de busca: por data ou por situação das parcelas(vencimento, pagamento, crédito ou todas as situações) e relátorios de valores à receber. </p
+  <p> Nossa solução tratou-se do desenvolvimento de um sistema de gerenciamento de combrança, onde se é possível realizar o cadastro de usuários, clientes e títulos, registrar o pagamento das parcelas, além da geração de relatórios de cobrança por diferentes tipos de busca: por data ou por situação das parcelas(vencimento, pagamento, crédito ou todas as situações) e relátorios de valores à receber. </p>
   <br>
   <div align="center">
     
@@ -54,11 +57,10 @@
   <h3> Minhas contribuições: </h3>
   <p> Nesse terceiro projeto tive a oportunidade de ser Scrum Master, onde fui responsável por garantir que as boas práticas da metodologia Scrum fossem aplicadas da melhor maneira possível ao decorrer do projeto, sempre visando assim organizar reuniões diárias (Dailys) e reuniões de planejamento, revisões e retrospectivas, para que assim toda equipe se mantivesse informada do andamento da produção do produto. Busquei sempre também identificar obstáculos que impediam e poderiam impedir a equipe de atingir o sucesso e fornecer soluções para esses. </p>
   <p> Vale ressaltar que ao decorrer do projeto um dos membros começou um novo trabalho em outra área e acabou perdendo a motivação pelo projeto, o que acabou reduzindo drasticamente suas contribuições para o grupo. Infelizmente, sua presença estava cusando problemas de comunicação e afetando o progresso da equipe e por conta disso decidimos abordar o problema de forma transparente por meio de uma conversa amigável com o integrante. Após demostrarmos nossos pontos, o membro demonstrou ser compreensivo e juntou-se a outro grupo.  Essa experiência foi importante para equipe pois com isso conseguimos aprender como lidar com situações que interferem no rendimento e na dinâmica da equipe de forma amigável e profissional. </p> 
- 
-  além de auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e da criação dos registros das ações do usuário no sistema.
-  <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de utilizar softwares para facilitar o gerenciamento de equipe como o JiraSoftware. </strong>  </li>
+ <p> Além disso, pude auxiliar no desenvolvimento do backend da aplicação, utilizando a linguagem Java, o framework Spring e o banco de dados MySQL. Fui responsável por realizar a implementação do Jwt Spring Security e registrar das ações do usuário no sistema.
+  <li> <strong> Hardskills: desenvolvi melhores práticas de programação por meio da utilização de programação orientada à objetos, clean code, API REST, frameworks entre outros, ampliei meus conhecimentos em Java, além de aprender utilizar softwares para gerenciamento de equipe como o JiraSoftware. </strong>  </li>
   <br>
-  <li> <strong> Softskills: </strong> adquiri melhores habilidades de liderança, proatividade, organização, resolução de problemas e conflitos, comunicação e responsabilidade, principalmente por ser Scrum Master e ficar responsável pela parte de gestão do time e organização do projeto.  </li>
+  <li> <strong> Softskills: </strong> adquiri melhores habilidades de liderança, proatividade, organização, resolução de problemas e conflitos, comunicação e responsabilidade, principalmente por ser responsável pela gestão do time e organização do projeto.  </li>
 </div>
 <br>
 <h2>Contato </h2>
