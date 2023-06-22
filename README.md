@@ -11,15 +11,19 @@
 <h2> <strong> Projetos Acadêmicos </strong> </h2>
 <div>
   <h3><a href="https://github.com/Desduh/BrazilianTech"> 2022.1 - Sistema de Help Desk </a></h3>
-  <p> Consistiu-se em um sistema de assistência para problemas de TI, onde qualquer pessoa poderia criar um cadastro, enviar suas dúvidas para um funcionário da empresa de assistência e designar uma nota pela resposta recebida. Esses funcionários, por sua vez, eram administrados pelo administrador do sistema que possuía acesso a todas as dúvidas respondidas ou não de cada funcionário, além de acesso à gráficos de percentual de solicitações atendidas, recusadas e em aberto, de evolução do número de solicitações, tabelas com as médias de avaliações de cada funcionário e do sistema, além  da possibilidade de filtrar esses dados por um intervalo de tempo específico. </p>
+  <h4> PROBLEMA: </h4>
+  <p> Uma empresa desejava que seus funcionarios pudesem atender os chamados dos usuários que possuíam dúvidas em como resolver seus problemas da area de tecnologia de modo on-line, administrar seus funcionarios e obter relatórios de feedback da qualidade de atendimento e do sistema. </p>
+  <h4> SOLUÇÃO: </h4>
+  <p> Para resolver esses desafios, desenvolveu-se um sistema de assistência em TI, onde qualquer usuário  poderia criar uma conta, enviar suas dúvidas para um funcionário da empresa de assistência e designar uma nota pela resposta recebida. Esses funcionários, por sua vez, eram administrados pelo administrador do sistema que possuía acesso a todas as dúvidas respondidas ou não de cada funcionário, além de acesso à gráficos de percentual de solicitações atendidas, recusadas e em aberto, de evolução do número de solicitações, tabelas com as médias de avaliações de cada funcionário e do sistema, além  da possibilidade de filtrar esses dados por um intervalo de tempo específico. </p>
   
   ![administrador (2)](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/5181b35e-077e-4512-b72e-9f05b52e84b0)  
  
   <h3> Minhas contribuições: </h3>
-  <p> Durante o desenvolvimento do projeto tive a oportunidade de ser Product Owner, além de ser uma das responsáveis pelo desenvolvimento do back-end da aplicação, utilizando Python, Flask e MySQL e pela implantação de gráficos no front-end utilizando o Google Charts, JavaScript, HTML e CSS. </p>
+  <p> Durante o desenvolvimento do projeto tive a oportunidade de ser Product Owner, onde fui capaz de melhorar minhas habilidade de comunicação, responsabilidade, estruturação de MPVs e trabalho em equipe, visto que tinha sempre que manter o alinhamento entre o time e o cliente. Algo interssante é que a comunicação com o cliente foi realizada por meio da plataforma Slack, assim colocando nossa equipe em contato com uma tecnologia usada frequentemente no mercado  de trabalho.</p>
+  <p> Além disso, fui umas das responsáveis pelo desenvolvimento do back-end da aplicação, utilizando Python, Flask e MySQL e pela implantação de gráficos no front-end utilizando o Google Charts, JavaScript, HTML e CSS. </p>
   <li> <strong> Hardskills: </strong> pude aprender como fazer uma conexão entre o backend e um banco de dados, aprender a difernça entre requisições GET e POST, colaborar no desenvolvimento de um cadastro de usuário e de solicitações, implantar bibliotecas no front-end (Google Charts) e desenvolver conhecimentos de HTML e CSS. </li>
   <br>
-  <li> <strong> Softskills: </strong> consegui desenvolver ainda mais minhas habilidades de comunicação, autonomia e responsabilidade, tanto por ser parte de uma equipe quanto por ser P.O. Além dessas, evoluí também quanto a minha proatividade e minha habilidade de ser fléxivel, de se adaptar rapidamente à mudanças e aprender rapidamente, que são habilidades extremamente importantes, principalmente na metodologia SCRUM.  </li>
+  <li> <strong> Softskills: </strong> consegui desenvolver ainda mais minhas habilidades de comunicação, autonomia e responsabilidade, tanto por ser parte de uma equipe quanto por ser P.O. Além dessas, evoluí também quanto a minha proatividade e quanto as minhas habilidades de priorização de tarefas e de ser fléxivel, ou seja, de se adaptar rapidamente à mudanças e aprender rapidamente, que são habilidades extremamente importantes, principalmente na metodologia SCRUM.  </li>
 </div>
 <br>
 <hr>
@@ -28,7 +32,7 @@
   <h4> PROBLEMA: </h4>
   <p>Um sindicato de professores tem como uma de suas funções notificar seus associados em todas as situações que os nomes desses são citados no Diário Oficial do Estado de São Paulo. Para reduzir custos de mão de obra, erros humanos e o tempo de busca, foi solicitado que se desenvolvesse um sistema para automatização dessas consultas. </p>
   <h4> SOLUÇÃO: </h4>
-  <p> Foi desenvolvido um Crawler para realizar a raspagem de dados das ocorências no Diário Oficial, além da criação de templates para que o sindicado pudesse realizar o cadastro de seus associados, validar as ocorrências encontradas e liberar o envio dos e-mails para cada associado citado, assim facilitando o trabalho do sindicato. </p>
+  <p> Foi desenvolvido um Crawler para realizar a raspagem de dados das ocorrências no Diário Oficial, além da criação de templates para que o sindicado pudesse realizar o cadastro de seus associados, validar as ocorrências encontradas e liberar o envio dos e-mails para cada associado citado, assim facilitando o trabalho do sindicato. </p>
   <div align="center">
     
   ![s1](https://github.com/JuliaGayotto/Portfolio-DSM/assets/101027809/24c51a28-017d-41f4-9c4d-be95f958918b)
